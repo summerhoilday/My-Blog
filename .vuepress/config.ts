@@ -112,6 +112,19 @@ export default defineConfig({
     ],
     // https://github.com/tolking/vuepress-plugin-img-lazy
     ["img-lazy"],
+    [
+        "@vssue/vuepress-plugin-vssue",
+      {
+        platform: 'github-v4', //v3的platform是github，v4的是github-v4
+        locale: 'zh', //语言
+        // 其他的 Vssue 配置
+        owner: 'summerhoilday', //github账户名
+        repo: 'lovechatgpt.github.io', //github一个项目的名称
+        clientId: 'c277a5b8b516ad7ffd38',//注册的Client ID
+        clientSecret: '844f27992fed3aa131c3529d5a7327107188179b',//注册的Client Secret
+        autoCreateIssue:true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
+      },
+    ]
   ],
   // 主题配置
   themeConfig: {

@@ -54,8 +54,8 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 参考：[国内如何注册、购买ChatGPT账号](/how_to_register_chatgpt)
 
 
-[![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://bewildcard.com/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
 
+<Vssue  />
 
 
 
