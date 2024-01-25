@@ -10,7 +10,7 @@
 
 （如果还不会可以用这个：[科学稳定访问 openai](https://www.52xcjs.xyz/auth/register?code=tRE2VnaTKoEuiM7V)
 
-注册完后，或者你已经有账户，想要快速升级 Plus，可以看这篇教程：[ChatGPT 2分钟升级 Plus方法](https://chatgptzhinan.com/how_to_payment_chatgpt.html)
+注册完后，或者你已经有账户，想要快速升级 Plus，可以看这篇教程：[ChatGPT 2分钟升级 Plus方法](/how-to-payment-chatgpt)
 
 注册步骤：
 
@@ -84,7 +84,7 @@ ChatGPT 用户获取 GPT-4 的使用权限，是通过购买 GPT Plus 会员，�
 
 购买教程在这里:
 
-[ChatGPT 2分钟升级 Plus方法](https://chatgptzhinan.com/how_to_payment_chatgpt.html)
+[ChatGPT 2分钟升级 Plus方法](/how-to-payment-chatgpt)
 
 API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户，升级付费帐户的教程在这里。
 
