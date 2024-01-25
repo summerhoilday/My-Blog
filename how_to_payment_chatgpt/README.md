@@ -49,10 +49,21 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 开始享受GPT4的强大功能吧！
 
+## 四、办卡之后具体操作
+
+### 4.1 首先进入[bewildcard](https://bewildcard.com/i/GPT000)页面
+
+![](../.vuepress/public/1cz.png)
+
+### 4.2 点击一键升级之后,复制GPT网址到指定位置
+
+![](../.vuepress/public/2cz.png)
+
 ## 注册ChatGPT账号
 
 参考：[国内如何注册、购买ChatGPT账号](/how_to_register_chatgpt)
 
+## 需要帮忙升级请联系vx：gptgood000 备注gpt
 
 
 <Vssue  />
