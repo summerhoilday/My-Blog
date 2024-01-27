@@ -95,6 +95,27 @@ API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户
 
 [![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://bewildcard.com/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
 
+## 三、END
+
+有任何问题，可以在评论区留言~
+
+##### 一、ChatGPT账号注册相关
+
+[国内如何注册、获取ChatGPT账号？](/how_to_register_chatgpt)
+
+##### 二、ChatGPT充值升级 Plus
+
+[如何购买ChatGPT Plus？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus 指南](/how_to_payment_chatgpt)
+
+##### 三、Youtube、Onlyfans等国外优质服务订阅：
+
+[OnlyFans支付教程，手把手教你使用虚拟信用卡订阅 Onlyfans](/onlyfans-pay)
+
+[onlyfans虚拟信用卡订阅教程-Onlyfans 注册、充值全流程](/onlyFans-pay-methods)
+
+##### 四、《幻兽帕鲁》联机服务器如何搭建
+[一招教你解决2024开年最火爆游戏《幻兽帕鲁》联机服务器如何搭建](/palu)
+
 
 <Vssue  />
 

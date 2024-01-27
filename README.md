@@ -19,6 +19,9 @@ permalink: /
 ### 三、Youtube、Onlyfans等国外优质服务订阅
 - [OnlyFans支付教程，手把手教你使用虚拟信用卡订阅 Onlyfans](/onlyFans-pay-methods)
 - [onlyfans虚拟信用卡订阅教程-Onlyfans 注册、充值全流程](/onlyFans-pay)
+### 四、《幻兽帕鲁》联机服务器如何搭建
+[一招教你解决2024开年最火爆游戏《幻兽帕鲁》联机服务器如何搭建](/palu)
+
 <br/>
 <br/>
 <br/>
