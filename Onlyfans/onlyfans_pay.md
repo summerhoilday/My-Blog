@@ -66,11 +66,11 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 ##### 一、ChatGPT账号注册相关
 
-[国内如何注册、获取ChatGPT账号？](/how_to_register_chatgpt)
+[国内如何注册、获取ChatGPT账号？](/how-to-register-chatgpt)
 
 ##### 二、ChatGPT充值升级 Plus
 
-[如何购买ChatGPT Plus？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus 指南](/how_to_payment_chatgpt)
+[如何购买ChatGPT Plus？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus 指南](/how-to-payment-chatgpt)
 
 ##### 三、Youtube、Onlyfans等国外优质服务订阅：
 
