@@ -6,6 +6,10 @@ export default [
         items: [
             { text:"注册GPT", link: "/how-to-register-chatgpt/"},
             { text:"升级GPT", link: "/how-to-payment-chatgpt/"},
+            {
+                text: "帮忙代充GPT4",
+                link: "/helpgpt/"
+            },
             { text:"Onlyfans", link: "/Onlyfans/"},
             {
                 text: "幻兽帕鲁服务器教程",
@@ -24,6 +28,10 @@ export default [
     {
         text: "Onlyfans",
         link: "/onlyfans-pay-methods/"
+    },
+    {
+        text: "帮忙代充GPT4",
+        link: "/helpgpt/"
     },
     {
         text: "幻兽帕鲁服务器教程",

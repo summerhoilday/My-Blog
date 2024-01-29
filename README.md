@@ -20,7 +20,9 @@ permalink: /
 - [OnlyFans支付教程，手把手教你使用虚拟信用卡订阅 Onlyfans](/onlyFans-pay-methods)
 - [onlyfans虚拟信用卡订阅教程-Onlyfans 注册、充值全流程](/onlyFans-pay)
 ### 四、《幻兽帕鲁》联机服务器如何搭建
-[一招教你解决2024开年最火爆游戏《幻兽帕鲁》联机服务器如何搭建](/palu)
+- [一招教你解决2024开年最火爆游戏《幻兽帕鲁》联机服务器如何搭建](/palu)
+### 五、帮忙代充GPT4
+- [帮忙代充GPT4，数量有限，现在有新春价格优惠](/helpgpt)
 
 <br/>
 <br/>
