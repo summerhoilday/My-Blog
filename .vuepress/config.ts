@@ -41,7 +41,7 @@ export default defineConfig({
       "meta",
       {
         name: "sogou_site_verification",
-        content: "CdMKrNjlwO"
+        content: "prAl7E7rzP"
       }
     ],
     // 百度统计
