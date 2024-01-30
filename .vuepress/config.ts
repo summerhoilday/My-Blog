@@ -37,7 +37,13 @@ export default defineConfig({
         content: "C64B0333B5F74E1F660ED1BC1218CC80"
       }
     ],
-      
+    [
+      "meta",
+      {
+        name: "sogou_site_verification",
+        content: "CdMKrNjlwO"
+      }
+    ],
     // 百度统计
     [
       "script",
