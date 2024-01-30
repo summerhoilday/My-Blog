@@ -23,6 +23,21 @@ export default defineConfig({
           "GPT训练师, AI学习路线, 编程知识百科,GPT4,GPT5,升级GPT，Onlyfans",
       },
     ],
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "duhaMEIkkhD4IpsK0yRuny_HzX1-4bkyUdmw9f2feZQ"
+      }
+    ],
+    [
+      "meta",
+      {
+        name: "msvalidate.01",
+        content: "C64B0333B5F74E1F660ED1BC1218CC80"
+      }
+    ],
+      
     // 百度统计
     [
       "script",
