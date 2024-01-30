@@ -5,7 +5,7 @@ import footer from "./footer";
 
 
 const author = "GPT训练师";
-const domain = "https://codefather.cn";
+const domain = "https://lovechatgpt.netlify.app";
 const tags = ["AI学习路线", "编程知识百科", "GPT5", "升级GPT"];
 
 export default defineConfig({
@@ -20,7 +20,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "GPT训练师, AI学习路线, 编程知识百科,GPT4,GPT5,升级GPT，Onlyfans  ",
+          "GPT训练师, AI学习路线, 编程知识百科,GPT4,GPT5,升级GPT，Onlyfans",
       },
     ],
     // 百度统计
@@ -55,7 +55,7 @@ export default defineConfig({
     [
       "@vuepress/google-analytics",
       {
-        ga: "GTM-WVS9HM6W", // 补充自己的谷歌分析 ID，比如 UA-00000000-0
+        ga: "G-7GKQEKQ9M1", // 补充自己的谷歌分析 ID，比如 UA-00000000-0
       },
     ],
     ["@vuepress/medium-zoom"],
