@@ -12,6 +12,10 @@ export default [
             },
             { text:"Onlyfans", link: "/Onlyfans/"},
             {
+                text: "Onlyfans相关问题",
+                link: "/onlyfans-question/"
+            },
+            {
                 text: "幻兽帕鲁服务器教程",
                 link: "/palu/"
             },
@@ -28,6 +32,10 @@ export default [
     {
         text: "Onlyfans",
         link: "/onlyfans-pay-methods/"
+    },
+    {
+        text: "Onlyfans相关问题",
+        link: "/onlyfans-question/"
     },
     {
         text: "帮忙代充GPT4",

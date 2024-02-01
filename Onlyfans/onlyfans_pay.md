@@ -78,10 +78,12 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 [onlyfans虚拟信用卡订阅教程-Onlyfans 注册、充值全流程](/onlyFans-pay-methods)
 
+[Onlyfans年龄验证失败？Onlyfans如何订阅，Onlyfans注册失败？](/onlyfans-question)
+
 ### 四、《幻兽帕鲁》联机服务器如何搭建
 [一招教你解决2024开年最火爆游戏《幻兽帕鲁》联机服务器如何搭建](/palu)
 
 ### 五、帮忙代充GPT4
 - [帮忙代充GPT4，数量有限，现在有新春价格优惠](/helpgpt)
 
-<Vssue  />
+  <Vssue/>

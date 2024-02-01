@@ -8,6 +8,7 @@ const author = "GPT训练师";
 const domain = "https://lovechatgpt.netlify.app";
 const tags = ["AI学习路线", "编程知识百科", "GPT5", "升级GPT"];
 
+
 export default defineConfig({
   title: "ChatGPT使用指南",
   description: "分享前沿的AI使用技术",
@@ -71,6 +72,7 @@ export default defineConfig({
   },
   // @ts-ignore
   plugins: [
+
     ["@vuepress/back-to-top"],
     // Google 分析
     [
@@ -136,7 +138,7 @@ export default defineConfig({
     [
         "@vssue/vuepress-plugin-vssue",
       {
-        platform: 'github-v4', //v3的platform是github，v4的是github-v4
+        platform: 'github', //v3的platform是github，v4的是github-v4
         locale: 'zh', //语言
         // 其他的 Vssue 配置
         owner: 'summerhoilday', //github账户名
@@ -145,7 +147,16 @@ export default defineConfig({
         clientSecret: '844f27992fed3aa131c3529d5a7327107188179b',//注册的Client Secret
         autoCreateIssue:true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
       },
-    ]
+    ],
+    // [
+    //   "comment1",
+    //   {
+    //     // 插件选项
+    //     type: "waline",
+    //     serverURL:"https://blog-review-2ikgws1lv-summerhoildays-projects.vercel.app/"
+    //   },
+    // ],
+
   ],
   // 主题配置
   themeConfig: {
