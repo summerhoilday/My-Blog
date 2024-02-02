@@ -4,9 +4,8 @@
 
 
 
-### 需要帮忙升级请联系vx：gptgood000 备注gpt
-![图片](../.vuepress/public/wxcode.jpg)
-
+### 需要帮忙升级请联系vx：aq675303889 备注gpt
+![图片](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402021640508.jpg)
 
 ## END
 

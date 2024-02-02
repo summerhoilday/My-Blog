@@ -45,7 +45,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 +   登录ChatGPT后，在同一浏览器新开一个标签页。
 +   点击以下链接直接进入升级页面：[https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)
 
-如遇到支付问题，可在 [bewildcard](https://bewildcard.com/i/GPT000) 咨询客服。
+如遇到支付问题，可在 [bewildcard](https://bewildcard.com/i/GPT000) 咨询客服。需要帮忙升级请联系vx：aq675303889 备注gpt
 
 开始享受GPT4的强大功能吧！
 
@@ -63,7 +63,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 参考：[国内如何注册、购买ChatGPT账号](/how_to_register_chatgpt)
 
-## 需要帮忙升级请联系vx：gptgood000 备注gpt
+## 需要帮忙升级请联系vx：aq675303889 备注gpt
 
 ## 五、END
 
