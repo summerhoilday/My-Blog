@@ -4,7 +4,7 @@
 
 
 
-### 需要帮忙升级请联系vx：aq675303889 备注gpt
+### 需要帮忙升级请联系vx：gptgood000 备注gpt
 ![图片](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402021640508.jpg)
 
 ## END
@@ -29,6 +29,9 @@
 
 ##### 四、《幻兽帕鲁》联机服务器如何搭建
 [一招教你解决2024开年最火爆游戏《幻兽帕鲁》联机服务器如何搭建](/palu)
+
+##### 五、如何使用Soar
+- [OpenAI Sora的详细教程与使用指南](/how-use-soar)
 
 <Vssue/>
 

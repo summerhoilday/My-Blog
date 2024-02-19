@@ -119,6 +119,9 @@ API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户
 ### 五、帮忙代充GPT4
 [帮忙代充GPT4，数量有限，现在有新春价格优惠](/helpgpt)
 
+### 六、如何使用Soar
+- [OpenAI Sora的详细教程与使用指南](/how-use-soar)
+
 
 <Vssue/>
 

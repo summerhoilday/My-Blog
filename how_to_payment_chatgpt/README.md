@@ -45,7 +45,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 +   登录ChatGPT后，在同一浏览器新开一个标签页。
 +   点击以下链接直接进入升级页面：[https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)
 
-如遇到支付问题，可在 [bewildcard](https://bewildcard.com/i/GPT000) 咨询客服。需要帮忙升级请联系vx：aq675303889 备注gpt
+如遇到支付问题，可在 [bewildcard](https://bewildcard.com/i/GPT000) 咨询客服。需要帮忙升级请联系vx：gptgood000 备注gpt
 
 开始享受GPT4的强大功能吧！
 
@@ -63,7 +63,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 参考：[国内如何注册、购买ChatGPT账号](/how_to_register_chatgpt)
 
-## 需要帮忙升级请联系vx：aq675303889 备注gpt
+## 需要帮忙升级请联系vx：gptgood000 备注gpt
 
 ## 五、END
 
@@ -77,7 +77,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 [如何购买ChatGPT Plus？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus 指南](/how-to-payment-chatgpt)
 
-###三、Youtube、Onlyfans等国外优质服务订阅：
+### 三、Youtube、Onlyfans等国外优质服务订阅：
 
 [OnlyFans支付教程，手把手教你使用虚拟信用卡订阅 Onlyfans](/onlyfans-pay)
 
@@ -90,6 +90,9 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 ### 五、帮忙代充GPT4
 [帮忙代充GPT4，数量有限，现在有新春价格优惠](/helpgpt)
+
+### 六、如何使用Soar
+- [OpenAI Sora的详细教程与使用指南](/how-use-soar)
 
   <Vssue/>
 

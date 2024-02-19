@@ -30,6 +30,10 @@ export default [
         link: "/how-to-payment-chatgpt/"
     },
     {
+        text: "怎么使用Soar",
+        link: "/how-use-soar/"
+    },
+    {
         text: "Onlyfans",
         link: "/onlyfans-pay-methods/"
     },
