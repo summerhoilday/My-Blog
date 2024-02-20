@@ -1,4 +1,6 @@
-## OpenAI Sora的详细教程与使用指南
+# OpenAI Sora的详细教程与使用指南
+
+> 本文作者：GPT训练师
 
 OpenAI Sora是一种新的AI大模型，可以根据简单的文本提示生成逼真和富有想象力的60秒视频。用户可以通过以下步骤启用OpenAI Sora：
 

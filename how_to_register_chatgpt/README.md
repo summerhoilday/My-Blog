@@ -1,4 +1,4 @@
-## 如何注册ChatGPT？
+# 如何注册ChatGPT？
 > 本文作者：GPT训练师
 
 

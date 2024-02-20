@@ -1,4 +1,4 @@
-## 如何购买ChatGPT Plus？使用虚拟信用卡升级ChatGPT Plus的指南
+# 如何购买ChatGPT Plus？使用虚拟信用卡升级ChatGPT Plus的指南
 > 本文作者：GPT训练师
 
 
