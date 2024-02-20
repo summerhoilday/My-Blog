@@ -5,8 +5,8 @@
 
 
 ### 需要帮忙升级请联系vx：gptgood000 备注gpt
-![图片](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402021640508.jpg)
 
+![图片](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402201258468.png)
 ## END
 
 有任何问题，可以在评论区留言~
