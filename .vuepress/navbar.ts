@@ -38,6 +38,10 @@ export default [
         link: "/onlyfans-pay-methods/"
     },
     {
+        text: "Onlyfans注册",
+        link: "/register-onlyfans/"
+    },
+    {
         text: "Onlyfans相关问题",
         link: "/onlyfans-question/"
     },
