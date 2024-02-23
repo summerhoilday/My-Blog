@@ -11,7 +11,7 @@ const tags = ["AI学习路线", "编程知识百科", "GPT5", "升级GPT"];
 
 export default defineConfig({
   title: "ChatGPT使用指南",
-  description: "分享前沿的AI使用技术",
+  description: "分享前沿的AI使用技术，现在包括Onlyfans，ChatGPT注册，GPT升级，幻兽帕鲁服务器，多种方案应有尽有。",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
