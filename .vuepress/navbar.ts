@@ -53,4 +53,8 @@ export default [
         text: "幻兽帕鲁服务器教程",
         link: "/palu/"
     },
+    {
+        text: "友情链接",
+        link: "/friend-link/"
+    },
 ] as NavItem[];
