@@ -34,6 +34,10 @@ export default [
         link: "/how-use-soar/"
     },
     {
+        text: "Claude3最新教程",
+        link: "/register-claude/"
+    },
+    {
         text: "Onlyfans",
         link: "/onlyfans-pay-methods/"
     },
