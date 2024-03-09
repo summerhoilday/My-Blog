@@ -30,6 +30,12 @@ OnlyFans是一个日益受欢迎的内容订阅服务平台，使创作者能够
 
 ### 2.3 选择注册wildcard
 
+#### 首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
+
+#### 然后点击注册
+
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
 ## 三 开好卡后，如何使用

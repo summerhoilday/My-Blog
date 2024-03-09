@@ -42,6 +42,12 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 ### 3.2 选择注册wildcard
 
+#### 首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
+
+#### 然后点击注册
+
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
 ### 3.3 绕过官方入口，直接进入升级支付

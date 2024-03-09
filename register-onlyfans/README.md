@@ -30,7 +30,13 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 进入网站首页，填写相关信息开卡，中途需要用到支付宝认证，但是只需要扫码即可，不需要上传身份证。
 
-![image-20240126133419681](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402221608973.png)
+#### 首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
+
+#### 然后点击注册
+
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
 
 
