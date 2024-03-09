@@ -22,6 +22,11 @@
 
 ![image-20240227203952485](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272039525.png)
 
+### 二.1 选择注册wildcard
+
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
+
+
 ### 三、 验证的邮件可以通过收件记录查看
 
 ![image-20240227204018623](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272040657.png)

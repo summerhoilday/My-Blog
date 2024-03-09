@@ -40,10 +40,16 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 **关键是，如果没有消费成功，可以随时提现余额到支付宝**。
 
-### 3.2 绕过官方入口，直接进入升级支付
+### 3.2 选择注册wildcard
 
-+   登录ChatGPT后，在同一浏览器新开一个标签页。
-+   点击以下链接直接进入升级页面：[https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
+
+### 3.3 绕过官方入口，直接进入升级支付
+
++ 登录ChatGPT后，在同一浏览器新开一个标签页。
++ 点击以下链接直接进入升级页面：[https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)
+
+
 
 如遇到支付问题，可在 [bewildcard](https://bewildcard.com/i/GPT000) 咨询客服。需要帮忙升级请联系vx：gptgood000 备注gpt
 

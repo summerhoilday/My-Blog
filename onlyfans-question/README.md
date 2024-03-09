@@ -34,7 +34,7 @@
 进入网站首页，填写相关信息开卡
 
 
-![image-20240201105741485](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402011057553.png)
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
 
 支付之后需要几分钟的时间等待开通成功。开通成功之后就可以拿到一张虚拟卡。

@@ -28,6 +28,9 @@ OnlyFans是一个日益受欢迎的内容订阅服务平台，使创作者能够
 
 [![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://bewildcard.com/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
 
+### 2.3 选择注册wildcard
+
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
 ## 三 开好卡后，如何使用
 
