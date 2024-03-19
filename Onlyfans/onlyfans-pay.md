@@ -20,13 +20,13 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 [https://onlyfans.com/](https://onlyfans.com/)  
 使用国内邮箱、qq、163 等邮箱即可注册
 
-![onlyfans](https://cdn.how2cs.cn/csguide/142120.png)
+![onlyfans](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190804951.png)
 
 ### 1.2 邮箱验证
 
 然后进行邮箱验证，我们这里点击发送会收到一封onlyfans的验证邮件，将收到的链接在登录的浏览器里复制粘贴打开即可验证成功。
 
-![邮箱验证onlyfans](https://cdn.how2cs.cn/csguide/142312.png)
+![邮箱验证onlyfans](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190804027.png)
 
 ## 二、支付
 
@@ -36,7 +36,7 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 我已经踩过坑了，买了 30 usd，实际汇率只需要 220 元左右，但是收了 280，最最关键的是这个卡只能用一次，是临时的！
 
-![](https://cdn.how2cs.cn/csguide/152529.jpg)
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190804018.jpeg)
 
 ### 2.2 推荐长期稳定的虚拟卡平台：
 
@@ -65,15 +65,15 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 然后去onlyfans绑定虚拟卡，[https://onlyfans.com/my/payments/add\_card](https://onlyfans.com/my/payments/add_card)：
 
-![虚拟卡](https://cdn.how2cs.cn/csguide/152542.png)
+![虚拟卡](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190803908.png)
 
 上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接复制过去即可：
 
-![onlyfans绑定卡方式](https://cdn.how2cs.cn/csguide/143711.png)
+![onlyfans绑定卡方式](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190803071.png)
 
 绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll 之类的，，是不是很快捷：
 
-![onlyfans绑定卡](https://cdn.how2cs.cn/csguide/152556.png)
+![onlyfans绑定卡](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190803887.png)
 
 ## 四、END
 

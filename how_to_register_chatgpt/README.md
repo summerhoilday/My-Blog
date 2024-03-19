@@ -17,6 +17,12 @@
 国内的邮箱都不再允许注册 ChatGPT，建议申请一个免费的海外邮箱 Proton 来注册，其他海外邮箱，如 Gmail 也可以，但是注册难度高一些，步骤繁琐。
 
 
+
+
+
+
+
+
 ## 一、注册 proton 邮箱
 
 ## 1.1 访问 proton
@@ -25,25 +31,25 @@
 
 选择右上角的 「Create a free account」
 
-![proton 网站](https://cdn.how2cs.cn/csguide/054443.png)
+![proton 网站](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800942.png)
 
 ## 1.2 选择免费套餐
 
-![proton 套餐](https://cdn.how2cs.cn/csguide/054505-1.png)
+![proton 套餐](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800931.png)
 
 ## 1.3 选择邮箱后缀，设置用户名和密码
 
 推荐选择 proton.me
 
-![proton](https://cdn.how2cs.cn/csguide/151156.png)
+![proton](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800888.png)
 
 ## 1.4 通过真人检验，跳过手机验证
 
 依次拖动验证码，然后设置显示的名称，跳过手机验证就可以。
 
-![verification 验证](https://cdn.how2cs.cn/csguide/151253.png)
+![verification 验证](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800877.png)
 
-![proton 验证](https://cdn.how2cs.cn/csguide/151315.png)
+![proton 验证](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800796.png)
 
 注册完后，可以去登陆邮箱，方便接收验证码：
 
@@ -57,21 +63,21 @@
 
 [https://chat.openai.com/](https://chat.openai.com/)
 
-![openai截图](https://cdn.how2cs.cn/csguide/151820.png)
+![openai截图](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800854.png)
 
 首先验证邮箱，去 Proton.me 收件箱里点击「Verify email address」即可。
 
-![验证邮箱](https://cdn.how2cs.cn/csguide/151902.png)
+![验证邮箱](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800705.png)
 
 然后提供你的名和姓及生日，并点击继续
 
-![生日](https://cdn.how2cs.cn/csguide/151929.png)
+![生日](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800711.png)
 
 然后选择您创建 API 还是 ChatGPT账户即可。
 
 个人用户一般都选择 ChatGPT 账户即可：
 
-![](https://cdn.how2cs.cn/csguide/152006.png)
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190800751.png)
 
 Openai 的用户体系分成两大类：ChatGPT 用户和API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的：
 

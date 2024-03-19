@@ -16,7 +16,7 @@ OnlyFans是一个日益受欢迎的内容订阅服务平台，使创作者能够
 
 我已经踩过坑了，买了 30 usd，实际汇率只需要 220 元左右，但是收了 280，最最关键的是这个卡只能用一次，是临时的！
 
-![](https://cdn.how2cs.cn/csguide/152529.jpg)
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190805239.jpeg)
 
 ### 2.2 推荐使用一些稳定的虚拟卡平台：
 
@@ -44,15 +44,15 @@ OnlyFans是一个日益受欢迎的内容订阅服务平台，使创作者能够
 
 然后去onlyfans绑定虚拟卡，[https://onlyfans.com/my/payments/add\_card](https://onlyfans.com/my/payments/add_card)：
 
-![wildcard 虚拟卡](https://cdn.how2cs.cn/csguide/152542.png)
+![wildcard 虚拟卡](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190805955.png)
 
 上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接复制过去即可：
 
-![wildcard 虚拟卡](https://cdn.how2cs.cn/csguide/152547.png)
+![wildcard 虚拟卡](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190805056.png)
 
 绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll 之类的：
 
-![wildcard 虚拟卡](https://cdn.how2cs.cn/csguide/152556.png)
+![wildcard 虚拟卡](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403190805947.png)
 
 ## 四、END
 
