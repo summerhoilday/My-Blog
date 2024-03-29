@@ -59,6 +59,9 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
+#### 填写邀请码  GPT000
+![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
+
 ## 三 开好卡后，如何使用
 
 首先往卡里充值订阅博主付费内容需要的金额即可（建议多充1-2美元，防止扣款失败）

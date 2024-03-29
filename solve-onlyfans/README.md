@@ -32,6 +32,8 @@
 
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
+#### 填写邀请码  GPT000
+![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
 
 ### 三、 验证的邮件可以通过收件记录查看
 

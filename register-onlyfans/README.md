@@ -38,7 +38,8 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
-
+#### 填写邀请码  GPT000
+![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
 
 ## 四. 使用虚拟卡订阅
 

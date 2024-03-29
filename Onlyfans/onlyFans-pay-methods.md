@@ -38,6 +38,9 @@ OnlyFans是一个日益受欢迎的内容订阅服务平台，使创作者能够
 
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
+#### 填写邀请码  GPT000
+![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
+
 ## 三 开好卡后，如何使用
 
 首先往卡里充值订阅博主付费内容需要的金额即可
