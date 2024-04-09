@@ -33,14 +33,20 @@
 
 进入网站首页，填写相关信息开卡
 
-首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
+#### 首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
-然后点击注册
+#### 然后点击注册
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
 
 #### 填写邀请码  GPT000
 ![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
+
+#### 开卡成功后首先充值进行卡激活
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)
+
+#### 1.选择线上充值 2.支付宝支付  3. 最低可以输入10（不想用可以随时提现）
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091652647.png)
 
 支付之后需要几分钟的时间等待开通成功。开通成功之后就可以拿到一张虚拟卡。
 

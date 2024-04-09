@@ -41,6 +41,12 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 #### 填写邀请码  GPT000
 ![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
 
+#### 开卡成功后首先充值进行卡激活
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)
+
+#### 1.选择线上充值 2.支付宝支付  3. 最低可以输入10（不想用可以随时提现）
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091652647.png)
+
 ## 四. 使用虚拟卡订阅
 
 ### 4.1 首先找一个想要订阅的博主，点击订阅时长之后，提示添加信用卡

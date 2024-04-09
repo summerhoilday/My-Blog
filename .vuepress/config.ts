@@ -162,7 +162,7 @@ export default defineConfig({
   themeConfig: {
     logo: "/logo.png",
     nav: navbar,
-    sidebar,
+
     lastUpdated: "最近更新",
 
 

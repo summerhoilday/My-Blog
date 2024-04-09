@@ -53,6 +53,12 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 #### 填写邀请码  GPT000
 ![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
 
+#### 开卡成功后首先充值进行卡激活
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)
+
+#### 1.选择线上充值 2.支付宝支付  3. 最低可以输入10（不想用可以随时提现）
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091652647.png)
+
 ### 3.3 绕过官方入口，直接进入升级支付
 
 + 登录ChatGPT后，在同一浏览器新开一个标签页。
