@@ -34,12 +34,17 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
-#### 然后点击注册
+#### 然后选择wildCard支付服务
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101622107.png)
 
-![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
+#### 点击开通会员
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101624892.png)
 
-#### 填写邀请码  GPT000
-![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
+#### 注册之后点击支付宝验证
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101626783.png)
+
+#### 支付界面输入邀请码GPT000, 开卡立减2刀
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101627572.png)
 
 #### 开卡成功后首先充值进行卡激活
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)

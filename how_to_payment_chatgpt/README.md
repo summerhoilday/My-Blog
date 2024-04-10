@@ -48,10 +48,17 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 #### 然后点击注册  最好不要选择拼车容易几天就封号，自己升级比较靠谱
 
-![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090808765.png)
+#### 然后选择wildCard支付服务
+![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101622107.png)
 
-#### 填写邀请码  GPT000
-![image-202403090808772](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403292044772.png)
+#### 点击开通会员
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101624892.png)
+
+#### 注册之后点击支付宝验证
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101626783.png)
+
+#### 支付界面输入邀请码GPT000, 开卡立减2刀
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101627572.png)
 
 #### 开卡成功后首先充值进行卡激活
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)
