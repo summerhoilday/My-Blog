@@ -1,10 +1,10 @@
-# 帮忙代充GPT4，数量有限，现在有新春价格优惠
+# 帮忙代充GPT4，数量有限，现在有价格优惠，绝对爆炸惊喜价格，欢迎询问
 > 本文作者：GPT训练师
 
 
 
 
-### 需要帮忙升级请联系vx：gptgood000 备注gpt
+### 需要帮忙升级请联系vx：gptgood000 备注gpt，绝对爆炸惊喜价格，欢迎询问
 
 ![图片](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402201258468.png)
 ## END
