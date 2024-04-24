@@ -8,9 +8,9 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 ## 二、如何注册
 
-1. 首先进入Onlyfans官网[onlyfans.com](onlyfans.com)
+1. 首先进入Onlyfans官网[onlyfans.com](https://onlyfans.com/)
 
-   ![image-20240126125318706](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402221606110.png)
+![image-20240126125318706](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402221606110.png)
 
 2.输入姓名，邮箱和密码(密码要数字加上字母大小写)
 
@@ -38,13 +38,16 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101622107.png)
 
 #### 点击开通会员
-![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101624892.png)
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404240807282.png)
 
 #### 注册之后点击支付宝验证
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101626783.png)
 
 #### 支付界面输入邀请码GPT000, 开卡立减2刀
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101627572.png)
+
+#### 之后输入姓名和邮箱进行开卡绑定
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404240808129.png)
 
 #### 开卡成功后首先充值进行卡激活
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)

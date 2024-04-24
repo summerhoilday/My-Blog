@@ -34,13 +34,14 @@
 进入网站首页，填写相关信息开卡
 
 #### 首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
+
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
 #### 然后选择wildCard支付服务
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101622107.png)
 
 #### 点击开通会员
-![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101624892.png)
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404240807282.png)
 
 #### 注册之后点击支付宝验证
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101626783.png)
@@ -48,6 +49,8 @@
 #### 支付界面输入邀请码GPT000, 开卡立减2刀
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101627572.png)
 
+#### 之后输入姓名和邮箱进行开卡绑定
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404240808129.png)
 
 #### 开卡成功后首先充值进行卡激活
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)

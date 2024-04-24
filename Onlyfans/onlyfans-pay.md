@@ -59,7 +59,7 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 ![image-202403090808765](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101622107.png)
 
 #### 点击开通会员
-![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101624892.png)
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404240807282.png)
 
 #### 注册之后点击支付宝验证
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101626783.png)
@@ -67,6 +67,8 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 #### 支付界面输入邀请码GPT000, 开卡立减2刀
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404101627572.png)
 
+#### 之后输入姓名和邮箱进行开卡绑定
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404240808129.png)
 
 #### 开卡成功后首先充值进行卡激活
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202404091648821.png)
