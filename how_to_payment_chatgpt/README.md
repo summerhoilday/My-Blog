@@ -32,7 +32,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 市面上有多个虚拟卡平台，推荐一个用户友好、操作简便的平台，全流程仅需约2分钟。这对缺乏国外信用卡的用户来说是一个完美的解决方案。注册链接：
 
-[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT000)。
+[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT000)。
 
 这是一家国内公司，通过支付宝实名认证，安全无忧。
 
@@ -42,7 +42,7 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 ### 3.2 选择注册wildcard
 
-#### 首先进入网站首页[虚拟信用卡](https://bewildcard.com/i/GPT000)
+#### 首先进入网站首页[虚拟信用卡](https://wildcard.com.cn/i/GPT000)
 
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
@@ -73,13 +73,13 @@ ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优�
 
 
 
-如遇到支付问题，可在 [bewildcard](https://bewildcard.com/i/GPT000) 咨询客服。需要帮忙升级请联系vx：gptgood000 备注gpt
+如遇到支付问题，可在 [bewildcard](https://wildcard.com.cn/i/GPT000) 咨询客服。需要帮忙升级请联系vx：gptgood000 备注gpt
 
 开始享受GPT4的强大功能吧！
 
 ## 四、办卡之后具体操作
 
-### 4.1 首先进入[bewildcard](https://bewildcard.com/i/GPT000)页面
+### 4.1 首先进入[bewildcard](https://wildcard.com.cn/i/GPT000)页面
 
 ![](../.vuepress/public/1cz.png)
 
