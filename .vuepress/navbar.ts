@@ -30,8 +30,8 @@ export default [
         link: "/how-to-payment-chatgpt/"
     },
     {
-        text: "怎么使用Soar",
-        link: "/how-use-soar/"
+        text: "GPT4o如何快速升级",
+        link: "/gpt4o/"
     },
     {
         text: "Claude3最新教程",
