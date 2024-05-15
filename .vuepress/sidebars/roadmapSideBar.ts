@@ -1,7 +1,7 @@
 export default [
   "",
   {
-    title: "how_to_register_chatgpt",
+    title: "how-to-register-chatgpt",
     collapsable: false,
     children: [
       "README.md",

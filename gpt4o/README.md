@@ -107,7 +107,7 @@ WildCard平台提供的 **ChatGPT 随心用**，每月只需要**10.99美元**�
 
 ## 注册ChatGPT账号
 
-参考：[国内如何注册、购买ChatGPT账号](/how_to_register_chatgpt)
+参考：[国内如何注册、购买ChatGPT账号](/how-to-register-chatgpt)
 
 ## 需要帮忙升级请联系vx：gptgood000 备注gpt
 
