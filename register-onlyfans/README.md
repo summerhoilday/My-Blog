@@ -74,6 +74,25 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 [![image.png](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402221606715.png)](https://s2.loli.net/2024/01/25/I7DHqRg5P4JXyvh.png)
 
+### 1.可能会遇到卡无法添加的情况
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202406151833664.png)
+
+### 这个时候要从地址的下拉框选择一个地址不要直接复制，如果没有下拉框，就随便选择一个地址即可
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202406151842111.png)
+
+### 2.可能遇到无法支付的问题，点击卡是灰色
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202406151836170.jpg)
+
+### 这个时候要点击头像，选择AddCard，然后充值到钱包
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202406151839419.png)
+
+![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202406151839661.png)
+
+
 ## 五. 总结
 
 通过虚拟信用卡即可解决onlyfans的订阅问题。
