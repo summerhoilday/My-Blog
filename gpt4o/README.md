@@ -54,7 +54,7 @@
 
 最近，**WildCard**平台 推出了 **ChatGPT 随心用** 的功能，使用的是OpenAI官方最新的**GPT4o**，拥有独立对话记录，并且没有网络要求，使用邀请码后每月只需 **9.99** 美元。
 
-**WildCard官网：👉[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT000)。👈
+**WildCard官网：👉[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT000)。👈
 
 （如果发现网站无法正常打开，建议升级到最新版的 Chrome 浏览器 并重试）
 

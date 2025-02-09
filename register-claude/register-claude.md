@@ -18,7 +18,7 @@
 
 ### 步骤1：获取Wildcard海外手机号
 
-1. 访问[Wildcard官方网站](https://wildcard.com.cn/i/GPT000)。
+1. 访问[Wildcard官方网站](https://yeka.ai/i/GPT000)。
 2. 根据网站指示注册账户。
 3. 进入网站，找到海外手机号菜单栏，点击“立即申请”。（下图是已经申请成功的界面）
 

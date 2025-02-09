@@ -42,16 +42,16 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 比如：
 
-[https://wildcard.com.cn/i/GPT000](https://wildcard.com.cn/i/GPT000) ( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折优惠~)
+[https://yeka.ai/i/GPT000](https://yeka.ai/i/GPT000) ( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折优惠~)
 
 用这个链接还可以享受开卡88折优惠，开卡费总共100元左右，**开的卡有效期达2年**，后续每次消费只需要充值你需要的美元金额即可，直接银行卡就能支付入账，超级方便，冲多了还可以提现回来。
 
 
-[![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://wildcard.com.cn/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
+[![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://yeka.ai/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
 
 ### 2.3 选择注册wildcard
 
-#### 首先进入网站首页[虚拟信用卡](https://wildcard.com.cn/i/GPT000)
+#### 首先进入网站首页[虚拟信用卡](https://yeka.ai/i/GPT000)
 
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 

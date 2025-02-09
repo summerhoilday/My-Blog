@@ -26,11 +26,11 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 开通步骤如下：
 
-首先点击链接进入[https://wildcard.com.cn/i/GPT000 ](https://wildcard.com.cn/i/GPT000)( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折优惠~)
+首先点击链接进入[https://yeka.ai/i/GPT000 ](https://yeka.ai/i/GPT000)( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折优惠~)
 
 进入网站首页，填写相关信息开卡，中途需要用到支付宝认证，但是只需要扫码即可，不需要上传身份证。
 
-#### 首先进入网站首页[虚拟信用卡](https://wildcard.com.cn/i/GPT000)
+#### 首先进入网站首页[虚拟信用卡](https://yeka.ai/i/GPT000)
 
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
@@ -97,7 +97,7 @@ OnlyFans的模式为创作者提供了一种直接从他们的粉丝获取收入
 
 通过虚拟信用卡即可解决onlyfans的订阅问题。
 
-总开销：[虚拟信用卡](https://wildcard.com.cn/i/GPT000) 开卡费9.99美元（大约70人民币） + onlyfans订阅费用
+总开销：[虚拟信用卡](https://yeka.ai/i/GPT000) 开卡费9.99美元（大约70人民币） + onlyfans订阅费用
 
 使用wildcard开卡之后不仅仅只能订阅Onlyfans，而且可以注册GPT账号
 

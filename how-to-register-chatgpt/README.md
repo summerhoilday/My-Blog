@@ -96,10 +96,10 @@ API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户
 
 然后需要预充值5美元以上，才能开通GPT-4的访问权限
 
-本文参考来源 [bewildcard](https://wildcard.com.cn/i/GPT000)
+本文参考来源 [bewildcard](https://yeka.ai/i/GPT000)
 
 
-[![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://wildcard.com.cn/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
+[![](https://chatgptzhinan.com/wp-content/uploads/2023/12/wildcard.png)](https://yeka.ai/i/GPT000 "<u>WildCard 信用卡，2 分钟订阅 ChatGPT Plus</u>")
 
 ## 三、END
 

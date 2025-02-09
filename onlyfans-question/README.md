@@ -29,11 +29,11 @@
 
 开通步骤如下：
 
-首先点击进入[虚拟信用卡](https://wildcard.com.cn/i/GPT000)
+首先点击进入[虚拟信用卡](https://yeka.ai/i/GPT000)
 
 进入网站首页，填写相关信息开卡
 
-#### 首先进入网站首页[虚拟信用卡](https://wildcard.com.cn/i/GPT000)
+#### 首先进入网站首页[虚拟信用卡](https://yeka.ai/i/GPT000)
 
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
@@ -70,7 +70,7 @@
 
 ## 四、 总结
 
-通过[虚拟信用卡](https://wildcard.com.cn/i/GPT000)即可解决onlyfans的订阅问题。
+通过[虚拟信用卡](https://yeka.ai/i/GPT000)即可解决onlyfans的订阅问题。
 
 并且不仅是只能订阅Onlyfans，而且可以注册GPT账号，一键帮你升级GPT4。
 

@@ -10,21 +10,21 @@
 
 ## 解决方案如下：
 
-前期工作：准备一张 虚拟卡（没有的小伙伴，可以直接点击[WildCard 注册](https://wildcard.com.cn/i/GPT000)进行申请，可省两美元），准备好之后我们就可以根据教程进行下一步操作啦~
+前期工作：准备一张 虚拟卡（没有的小伙伴，可以直接点击[WildCard 注册](https://yeka.ai/i/GPT000)进行申请，可省两美元），准备好之后我们就可以根据教程进行下一步操作啦~
 
-### 一、 使用 [WildCard](https://wildcard.com.cn/i/GPT000) 提供的远程环境去注册和支付
+### 一、 使用 [WildCard](https://yeka.ai/i/GPT000) 提供的远程环境去注册和支付
 
 ![image-20240227203916917](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272039977.png)
 
 ![img](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272037606.png)
 
-### 二、 申请一个[WildCard](https://wildcard.com.cn/i/GPT000)海外邮箱去注册
+### 二、 申请一个[WildCard](https://yeka.ai/i/GPT000)海外邮箱去注册
 
 ![image-20240227203952485](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272039525.png)
 
 ### 二.1 选择注册wildcard
 
-#### 首先进入网站首页[虚拟信用卡](https://wildcard.com.cn/i/GPT000)
+#### 首先进入网站首页[虚拟信用卡](https://yeka.ai/i/GPT000)
 
 ![](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202403090818516.png)
 
@@ -59,7 +59,7 @@
 ![img](https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272037094.png)
 
 ### 四、 进行绑卡  
-首先去网站注册虚拟卡[WildCard 注册](https://wildcard.com.cn/i/GPT000)
+首先去网站注册虚拟卡[WildCard 注册](https://yeka.ai/i/GPT000)
 
 注意，绑卡填地址的时候，**一定要从 onlyfans 地址补全的下拉框里面选**，随意选择即可，有小概率我们提供的账单地址没法匹配到，这个时候，**随意从下拉框里面选择一个接近地址**的即可。
 
